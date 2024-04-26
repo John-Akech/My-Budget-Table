@@ -1,0 +1,46 @@
+/* styling falls here */
+
+body {
+    background-color: lightblue;
+    /* color: blue; */
+}
+
+table, th, td {
+    border: 2px solid;
+    text-align: center; 
+    border-color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+table {
+    text-align: center;
+    color: green;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+}
+
+h1:hover {
+    background-color: green;
+    color: white;
+}
+th, td {
+    /* color: green; */
+    text-transform: uppercase;
+    padding: 15px;
+    /* color: green; */
+    
+}
+
+
+#ttl {
+    text-transform: uppercase;
+}
+
+tr:hover {
+    background-color: blue;
+    color: white;
+}
