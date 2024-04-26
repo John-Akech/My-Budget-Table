@@ -12,6 +12,7 @@ table, th, td {
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
+    border-color: blue;
 }
 
 table {
@@ -22,6 +23,7 @@ h1 {
     text-align: center;
     color: blue;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 h1:hover {
