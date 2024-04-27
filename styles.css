@@ -20,7 +20,7 @@ table {
     color: green;
 }
 h1 {
-    text-align: center;
+/*     text-align: center; */
     color: blue;
     text-transform: uppercase;
     cursor: pointer;
