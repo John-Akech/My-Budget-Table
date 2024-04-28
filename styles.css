@@ -3,6 +3,7 @@
 body {
     background-color: lightblue;
     /* color: blue; */
+    background-image: url(./Hv1.jpeg);
 }
 
 table, th, td {
@@ -17,7 +18,7 @@ table, th, td {
 
 table {
     text-align: center;
-    color: green;
+    color: blue;
     margin: 100px;
 }
 h1 {
@@ -25,13 +26,14 @@ h1 {
     color: blue;
     text-transform: uppercase;
     cursor: pointer;
-    border: 2px solid;
-    border-radius: 10px;
+
 }
 
 h1:hover {
     background-color: green;
     color: white;
+    border: 2px solid;
+    border-radius: 10px;
 }
 th, td {
     /* color: green; */
@@ -47,6 +49,6 @@ th, td {
 }
 
 tr:hover {
-    background-color: blue;
+    background-color: green;
     color: white;
 }
